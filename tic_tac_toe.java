@@ -43,7 +43,7 @@ class tic_tac_toe{
         if (gameOver){
             System.out.println("Player " + player + " has won");
         }
-        else System.out.println("No one won!");
+        else System.out.println("Game Draw!");
     }
 
     public static void placeValue(char[][] board, char player) {
