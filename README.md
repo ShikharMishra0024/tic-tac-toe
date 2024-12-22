@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-This is a simple Tic-Tac-Toe game written in Java. It is a black screen program that allows two players to play the game.
+This is a simple Tic-Tac-Toe game written in Java. It is a CLI program that allows two players to play the game.
 
 ## Prerequisites
 
